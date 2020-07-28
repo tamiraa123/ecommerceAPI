@@ -1,18 +1,18 @@
 [
 	  {
-        "ID":1,
-        "Name":"sdsad", 
-        "Salary":123123, 
-        "Country":"asdasd", 
-        "City":"asdasd",
-        "Position":"asdasd"
+        "id":1,
+        "name":"sdsad", 
+        "salary":123123, 
+        "country":"asdasd", 
+        "city":"asdasd",
+        "position":"asdasd"
       },
       {
-        "ID":2,
-        "Name":"ertwe", 
-        "Salary":123123, 
-        "Country":"werwew", 
-        "City":"asdasd",
-        "Position":"asdasd"
+        "id":2,
+        "name":"ertwe", 
+        "salary":123123, 
+        "country":"werwew", 
+        "city":"asdasd",
+        "position":"asdasd"
 	  }
-	]
+  ]
