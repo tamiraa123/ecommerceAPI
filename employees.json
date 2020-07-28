@@ -1,5 +1,4 @@
-{
-	"employees": [
+[
 	  {
         "ID":1,
         "Name":"sdsad", 
@@ -16,8 +15,4 @@
         "City":"asdasd",
         "Position":"asdasd"
 	  }
-	],
-	"profile": {
-	  "name": "typicode"
-	}
-  }
+]
