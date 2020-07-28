@@ -1,11 +1,18 @@
-{
-	"posts": [
+[
 	  {
-		"id": 1,
-		"title": "hello"
+        "ID":1,
+        "Name":"sdsad", 
+        "Salary":123123, 
+        "Country":"asdasd", 
+        "City":"asdasd",
+        "Position":"asdasd"
+      },
+      {
+        "ID":2,
+        "Name":"ertwe", 
+        "Salary":123123, 
+        "Country":"werwew", 
+        "City":"asdasd",
+        "Position":"asdasd"
 	  }
-	],
-	"profile": {
-	  "name": "typicode"
-	}
-  }
+	]
